@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "teste-let"
+version = "0.1.0"
+description = ""
+authors = ["matheusbruno23 <matheus.bruno.1805@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.2.2"
+httpx = "^0.27.0"
+jmespath = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
