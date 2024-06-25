@@ -67,5 +67,10 @@ def main():
 
 # CONFIGURAÇÃO DO ARQUIVO
 
+handler = main
+
 if __name__ == "__main__":
     main()
+
+
+    
